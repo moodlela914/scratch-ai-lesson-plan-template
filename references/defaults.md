@@ -12,4 +12,3 @@ Use these values when the user provides only a topic:
 - AI role: teacher preparation, supervised question-based debugging, and post-lesson reflection; never a replacement for student reasoning or authorship
 
 If the user specifies different values, those values override the defaults. If a requested format conflicts with the supplied template, preserve the template unless the user explicitly asks for a different format.
-

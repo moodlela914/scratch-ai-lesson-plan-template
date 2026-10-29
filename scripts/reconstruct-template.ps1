@@ -7,4 +7,3 @@ if (-not $parts) { throw "找不到範本分割檔。" }
 $base64 = ($parts | ForEach-Object { Get-Content -Raw -Encoding UTF8 -LiteralPath $_.FullName }) -join ""
 [IO.File]::WriteAllBytes($OutputPath, [Convert]::FromBase64String($base64))
 Write-Host "已重建 $OutputPath"
-

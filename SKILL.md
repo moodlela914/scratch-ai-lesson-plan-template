@@ -46,4 +46,3 @@ Before delivery:
 3. If rendering tools are unavailable, still complete structural checks and state that visual QA was not completed.
 
 When the user asks only for a lesson plan in chat rather than a Word file, provide Markdown instead; otherwise default to the Word deliverable described above.
-

@@ -22,4 +22,3 @@ Under `教師教學反思`, add a one-cell or short-paragraph table containing s
 ## AI guidance placement
 
 Put a concise overview in the rationale and AI-tool/platform slot. Put the actionable prompts and timing in the relevant lesson-procedure rows. Keep the full green/yellow/red definitions in the template appendix, while customizing the checklist marks and the course-specific cautions.
-
